@@ -1,0 +1,3 @@
+steps:
+  - name: Run custom action
+    uses: sarath1510/testspace1@main
